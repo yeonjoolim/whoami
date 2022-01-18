@@ -67,6 +67,7 @@ PLATFORMS
   x86_64-darwin-21
 
 DEPENDENCIES
+  jekyll-seo-tag
   plainwhite
   webrick
 
