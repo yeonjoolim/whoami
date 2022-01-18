@@ -1,7 +1,5 @@
 # frozen_string_literal: true
 
 source "https://rubygems.org"
-gem "plainwhite"
-gem "jekyll" 
-gem "jekyll-seo-tag"
+#gem "plainwhite"
 gem "webrick"
