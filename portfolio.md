@@ -8,8 +8,9 @@ categories: Reseacher
 Portfolio
 =========
 
-### 👩‍🎓 [Master's Thesis]
+### 👩‍🎓 Master's Thesis
 * Title: Container Security Framework and MEC Application Relocation for 5G Infrastructure
+* [Link](http://sejong.dcollection.net/common/orgView/200000506160)  
 
 ### 👩‍💻 Career  
 * [PEL(Protocol Engineering lab)], 석사 과정, 2019.02.01 ~ 2021.08.20
@@ -31,43 +32,40 @@ Portfolio
 ### ✍️ Research Project  
 ##### Main  
 1. 5G Network
-* 프로젝트명: __저지연 융합서비스를 위한 모바일 에지 컴퓨팅 플랫폼 기술 개발__
-* 기술 스택
-	+ __5G MEC__
-	+ Signature & Verfication module
-	+ Container Migration
-	+ __Kubernetes, Docker, Helm, OpenSSL, Ngnix__, Jenkins, Elasticsearch
-	+ __Golang__, Python, PHP
-* 프로젝트 기간: 2017-04-01 – 2020-12-31
-* 프로젝트 내용
-	+ ...
-* 프로젝트 데모
-	+ ...
+	+ 프로젝트명: __저지연 융합서비스를 위한 모바일 에지 컴퓨팅 플랫폼 기술 개발__
+	+ 기술 스택
+		- __5G MEC__
+		- Signature & Verfication module
+		- Container Migration
+		- __Kubernetes, Docker, Helm, OpenSSL, Ngnix__, Jenkins, Elasticsearch
+		- __Golang__, Python, PHP
+	+ 프로젝트 기간: 2017-04-01 – 2020-12-31
+	+ 프로젝트 내용
+		- ...
+	+ 프로젝트 데모
+		- ...
 <br/>  
 2. Blockchain 
-* 프로젝트명: __사설 블록체인 환경에서의 펌웨어 업데이트 아키텍처 연구 및 개발__
-* 기술 스택
-	+ Blockchain, Firmware Update
-	+ __Hyperledger Fabric__, Raspberry Pi 4
-	+ __Golang__
-* 프로젝트 기간: 2020-04-01 – 2020-10-31
-* 프로젝트 내용
-	+ ...
-* 프로젝트 데모
-	+ ...
+	+ 프로젝트명: __사설 블록체인 환경에서의 펌웨어 업데이트 아키텍처 연구 및 개발__
+	+ 기술 스택
+		- __Hyperledger Fabric__, Raspberry Pi 4
+		- __Golang__
+	+ 프로젝트 기간: 2020-04-01 – 2020-10-31
+	+ 프로젝트 내용
+		- ...
+	+ 프로젝트 데모
+		- ...
 <br/>  
-* 프로젝트명: __마이크로그리드 환경에서의 전력거래 시스템 개발 __
-* 기술 스택
-	+ Blockchain
-	+ __Hyperledger Fabric__, Raspberry Pi 3
-	+ __Solidity, Javascript__
-* 프로젝트 기간: 2017-??-?? – 2017-??-??
-* 프로젝트 내용
-	+ ...
-* 프로젝트 데모
-	+ ...
+	+ 프로젝트명: __마이크로그리드 환경에서의 전력거래 시스템 개발 __
+	+ 기술 스택
+		- __Hyperledger Fabric__, Raspberry Pi 3
+		- __Solidity, Javascript__
+	+ 프로젝트 기간: 2017-??-?? – 2017-??-??
+	+ 프로젝트 내용
+		- ...
+	+ 프로젝트 데모
+		- ...
 <br/>  
-
 
 ##### All 
 1. Research on Foundational Technologies for 6G Autonomous Security-by-Design to Guarantee Constant Quality of Security
@@ -166,6 +164,5 @@ Portfolio
 개발/일상 등을 올리는 **블로그**입니다.
 
 
-[Master's Thesis]: http://sejong.dcollection.net/common/orgView/200000506160
 [PEL(Protocol Engineering lab)]: http://pel.sejong.ac.kr/wordpress/
 [Zeppelin]: https://zeppelin.apache.org/ 
