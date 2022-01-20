@@ -67,6 +67,10 @@ Portfolio
 <br/>  
 
 ##### All 
+<details>
+<summary>상세 내용 확인</summary>
+<div markdown="1">
+
 1. Research on Foundational Technologies for 6G Autonomous Security-by-Design to Guarantee Constant Quality of Security
 <br/>Title in Korean: 상시적 보안품질 보장을 위한 6G 자율보안 내재화 기반기술 연구
 <br/>Sponsoring Authority: Institute for Information & Communications Technology Promotion (IITP, 정보통신기술진흥센터)
@@ -144,10 +148,14 @@ Portfolio
 <br/>Sponsoring Authority: Supreme Prosecutors’ Office (대검찰청)
 <br/>Duration: 2016-06-01 – 2016-12-28
   
+</div>
+</details>  
+
+
 ### 🏆 Prize  
-* 2018 상명대학교 교내 프라임 경진대회 - 최우수상
-* 2017 KUCIS 우수 동아리 시상 - 최우수상
-* 2017 한국정보보호학회 하계 학술발표회 - 우수논문상
+* 2018 상명대학교 교내 프라임 경진대회 - __최우수상__
+* 2017 KUCIS 우수 동아리 시상 - __최우수상__
+* 2017 한국정보보호학회 하계 학술발표회 - __우수논문상__
   
 ### 🔧 Stack
 * Golang
