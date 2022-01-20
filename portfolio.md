@@ -9,8 +9,7 @@ Portfolio
 =========
 
 ### 👩‍🎓 Master's Thesis
-* Title: Container Security Framework and MEC Application Relocation for 5G Infrastructure
-* [Link](http://sejong.dcollection.net/common/orgView/200000506160)  
+* Title: [Container Security Framework and MEC Application Relocation for 5G Infrastructure](http://sejong.dcollection.net/common/orgView/200000506160)  
 
 ### 👩‍💻 Career  
 * [PEL(Protocol Engineering lab)], 석사 과정, 2019.02.01 ~ 2021.08.20
