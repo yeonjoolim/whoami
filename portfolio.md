@@ -30,7 +30,7 @@ Portfolio
   
 ### ✍️ Research Project  
 ##### Main  
-* 프로젝트명: __저지연 융합서비스를 위한 모바일 에지 컴퓨팅 플랫폼 기술 개발__
+1. 프로젝트명: __저지연 융합서비스를 위한 모바일 에지 컴퓨팅 플랫폼 기술 개발__
 <br/>기술 스택
 	+ __5G MEC__
 	+ Signature & Verfication module
@@ -43,8 +43,8 @@ Portfolio
 <br/>프로젝트 데모
 	+ ...
 <br/>  
-* 프로젝트명: __사설 블록체인 환경에서의 펌웨어 업데이트 아키텍처 연구 및 개발__
-<<br/>기술 스택
+2. 프로젝트명: __사설 블록체인 환경에서의 펌웨어 업데이트 아키텍처 연구 및 개발__
+<br/>기술 스택
 	+ Blockchain, Firmware Update
 	+ __Hyperledger Fabric__, Raspberry Pi 4
 	+ __Golang__
@@ -54,8 +54,8 @@ Portfolio
 <br/>프로젝트 데모
 	+ ...
 <br/>  
-* 프로젝트명: __마이크로그리드 환경에서의 __
-<<br/>기술 스택
+3. 프로젝트명: __마이크로그리드 환경에서의 __
+<br/>기술 스택
 	+ Blockchain
 	+ __Hyperledger Fabric__, Raspberry Pi 3
 	+ __Solidity, Javascript__
