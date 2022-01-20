@@ -68,7 +68,7 @@ Portfolio
 
 ##### All 
 <details>
-<summary>Open</summary>
+<summary>details (if you want, please click.)</summary>
 <div markdown="1">
 1. Research on Foundational Technologies for 6G Autonomous Security-by-Design to Guarantee Constant Quality of Security
 <br/>Title in Korean: 상시적 보안품질 보장을 위한 6G 자율보안 내재화 기반기술 연구
