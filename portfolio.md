@@ -24,13 +24,15 @@ categories: Reseacher
 1. 임연주, 이종혁, “5G MEC 환경에서의 도커 마이그레이션 테스트베드 및 실험 시나리오”, OSIA Standards & Technology Review, Vol. 33, No. 2, pp.26-30, 2020년 9월.  
   
 ### 👩‍🎓 Research Project  
-####main
-* 과제명: 저지연 융합서비스를 위한 모바일 에지 컴퓨팅 플랫폼 기술 개발
+#### main
+__* 과제명: 저지연 융합서비스를 위한 모바일 에지 컴퓨팅 플랫폼 기술 개발
 <br/>기술 스택: 큰 기술 위주 세부적인 라이브러리 수준까지는 기술하지 않아도 된다.
 <br/>프로젝트 기간: 2017-04-01 – 2020-12-31
 <br/>프로젝트 내용: 최대한 자세하게 서술
 <br/>프로젝트 데모: 사
-<br/>  
+__<br/>  
+
+
 1. Research on Foundational Technologies for 6G Autonomous Security-by-Design to Guarantee Constant Quality of Security
 <br/>Title in Korean: 상시적 보안품질 보장을 위한 6G 자율보안 내재화 기반기술 연구
 <br/>Sponsoring Authority: Institute for Information & Communications Technology Promotion (IITP, 정보통신기술진흥센터)
