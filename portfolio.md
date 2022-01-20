@@ -24,10 +24,17 @@ categories: Reseacher
 1. 임연주, 이종혁, “5G MEC 환경에서의 도커 마이그레이션 테스트베드 및 실험 시나리오”, OSIA Standards & Technology Review, Vol. 33, No. 2, pp.26-30, 2020년 9월.  
   
 ### 👩‍🎓 Research Project  
+####main
+* 과제명: 저지연 융합서비스를 위한 모바일 에지 컴퓨팅 플랫폼 기술 개발
+<br/>기술 스택: 큰 기술 위주 세부적인 라이브러리 수준까지는 기술하지 않아도 된다.
+<br/>프로젝트 기간: 2017-04-01 – 2020-12-31
+<br/>프로젝트 내용: 최대한 자세하게 서술
+<br/>프로젝트 데모: 사
+<br/>  
 1. Research on Foundational Technologies for 6G Autonomous Security-by-Design to Guarantee Constant Quality of Security
 <br/>Title in Korean: 상시적 보안품질 보장을 위한 6G 자율보안 내재화 기반기술 연구
 <br/>Sponsoring Authority: Institute for Information & Communications Technology Promotion (IITP, 정보통신기술진흥센터)
-<br/>Duration: 2021-04-01 – 2024-12-31
+<br/>Duration: 2021-04-01 – 2021-08-31
 2. Research on the Standardization Measures of Unmanned Vehicle Security and Safety Evaluation and Verification
 <br/>Title in Korean: 무인이동체 보안성·안전성 평가 및 검증 표준화 방안 연구
 <br/>Sponsoring Auyhority: National Security Research Institute (국가보안기술연구소)
@@ -35,7 +42,7 @@ categories: Reseacher
 3. Research Laboratory of RAS Assurance for Context-Aware Cluster Collaboration Embedded SW
 <br/>Title in Korean:  상황인지 기반 군집협업형 임베디드 SW의 RAS 보증 연구실 (NRF 기초연구실 – 참여기관)
 <br/>Sponsoring Authority: National Research Foundation of Korea (NRF, 한국연구재단)
-<br/>Duration: 2021-03-01 – 2024-02-29
+<br/>Duration: 2021-03-01 – 2021-08-31
 4. Research on Copyright Technology Trends and Technology Roadmap
 <br/>Title in Korean: 저작권 기술 동향조사 및 기술로드맵 마련
 <br/>Sponsoring Authority: Korea Copyright Commission (한국저작권위원회)
