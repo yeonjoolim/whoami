@@ -30,13 +30,42 @@ Portfolio
   
 ### ✍️ Research Project  
 ##### Main  
-* __프로젝트명: 저지연 융합서비스를 위한 모바일 에지 컴퓨팅 플랫폼 기술 개발
-<br/>기술 스택: 큰 기술 위주 세부적인 라이브러리 수준까지는 기술하지 않아도 된다.
+* 프로젝트명: __저지연 융합서비스를 위한 모바일 에지 컴퓨팅 플랫폼 기술 개발__
+<br/>기술 스택
+	+ __5G MEC__
+	+ Signature & Verfication module
+	+ Container Migration
+	+ __Kubernetes, Docker, Helm, OpenSSL, Ngnix__, Jenkins, Elasticsearch
+	+ __Golang__, Python, PHP
 <br/>프로젝트 기간: 2017-04-01 – 2020-12-31
-<br/>프로젝트 내용: 최대한 자세하게 서술
-<br/>프로젝트 데모: 사__
+<br/>프로젝트 내용
+	+  최대한 자세하게 서술
+<br/>프로젝트 데모
+	+ ...
 <br/>  
-**
+* 프로젝트명: __사설 블록체인 환경에서의 펌웨어 업데이트 아키텍처 연구 및 개발__
+<<br/>기술 스택
+	+ Blockchain, Firmware Update
+	+ __Hyperledger Fabric__, Raspberry Pi 4
+	+ __Golang__
+<br/>프로젝트 기간: 2020-04-01 – 2020-10-31
+<br/>프로젝트 내용
+	+  최대한 자세하게 서술
+<br/>프로젝트 데모
+	+ ...
+<br/>  
+* 프로젝트명: __마이크로그리드 환경에서의 __
+<<br/>기술 스택
+	+ Blockchain
+	+ __Hyperledger Fabric__, Raspberry Pi 3
+	+ __Solidity, Javascript__
+<br/>프로젝트 기간: 2017-??-?? – 2017-??-??
+<br/>프로젝트 내용
+	+  최대한 자세하게 서술
+<br/>프로젝트 데모
+	+ ...
+<br/>  
+
 
 ##### All 
 1. Research on Foundational Technologies for 6G Autonomous Security-by-Design to Guarantee Constant Quality of Security
