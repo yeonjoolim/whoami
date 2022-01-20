@@ -9,7 +9,7 @@ Portfolio
 =========
 
 ### 👩‍🎓 [Master's Thesis]
-Container Security Framework and MEC Application Relocation for 5G Infrastructure
+* Title: Container Security Framework and MEC Application Relocation for 5G Infrastructure
 
 ### 👩‍💻 Career  
 * [PEL(Protocol Engineering lab)], 석사 과정, 2019.02.01 ~ 2021.08.20
@@ -30,13 +30,14 @@ Container Security Framework and MEC Application Relocation for 5G Infrastructur
   
 ### ✍️ Research Project  
 ##### Main  
+**
 * 프로젝트명: 저지연 융합서비스를 위한 모바일 에지 컴퓨팅 플랫폼 기술 개발
 <br/>기술 스택: 큰 기술 위주 세부적인 라이브러리 수준까지는 기술하지 않아도 된다.
 <br/>프로젝트 기간: 2017-04-01 – 2020-12-31
 <br/>프로젝트 내용: 최대한 자세하게 서술
 <br/>프로젝트 데모: 사
 <br/>  
-
+**
 
 ##### All 
 1. Research on Foundational Technologies for 6G Autonomous Security-by-Design to Guarantee Constant Quality of Security
