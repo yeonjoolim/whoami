@@ -5,17 +5,27 @@ date:   21-08-22 21:03:36 +0530
 categories: Internship Lab
 ---
 
-### Career  
-</br>
+### 👩‍💻 Career  
 * [PEL(Protocol Engineering lab)], 석사 과정, 2019.02.01 ~ 2021.08.20
 * [Zeppelin], 인턴, 2018.07.30 ~ 2018.08.24
-* [PEL(Protocol Engineering lab)], 학부 연구생, 2016.06.27 ~ 2018.02.28
-
-### Prize  
-</br>
+* [PEL(Protocol Engineering lab)], 학부 연구생, 2016.06.27 ~ 2018.02.28  
+### 📚 Paper
+### 👩‍🎓 Research Project
+### 🏆 Prize  
 * 2018 상명대학교 교내 프라임 경진대회 - 최우수상
 * 2017 KUCIS 우수 동아리 시상 - 최우수상
 * 2017 한국정보보호학회 하계 학술발표회 - 우수논문상
+### 🔧 Stack
+* Golang
+* Docker, Kubernetes
+* JavaScript
+* PHP
+* C
+* Linux
+### [📝 Blog](https://blog.naver.com/ojo_96)
+[ojo_96님의 블로그](https://blog.naver.com/ojo_96)
+
+개발/일상 등을 올리는 **블로그**입니다.
 
 ```javascript
 const Razorpay = require('razorpay');
