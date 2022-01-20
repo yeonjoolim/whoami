@@ -17,6 +17,9 @@ Portfolio
 * [PEL(Protocol Engineering lab)], 학부 연구생, 2016.06.27 ~ 2018.02.28  
 
 ### 📚 Paper
+* Nat. Journal Articles
+1. 임연주, 이종혁, “5G MEC 환경에서의 도커 마이그레이션 테스트베드 및 실험 시나리오”, OSIA Standards & Technology Review, Vol. 33, No. 2, pp.26-30, 2020년 9월.  
+<br/>
 * Nat. Conference Proceedings
 1. 박재형, 임연주, 이종혁, “무인항공기 시스템의 제어 통신을 위한 MAVLink 프로토콜 분석”, 한국정보보호학회 충청지부 학술대회, 2021년 8월.
 2. 임연주, 이종혁, “컨테이너 환경에서의 이미지 취약점 탐지 및 서명/검증 모델 설계”, 융합스마트미디어 시스템 워크샵(CSMS), 2019년 8월.
@@ -25,44 +28,43 @@ Portfolio
 5. 송영준, 전상기, 임연주, 이종혁, “Shadow Brokers에 의해 유출된 NSA 윈도우 해킹 툴 분석”, 한국정보보호학회 하계학술발표회, 2017년 6월. (우수 논문상 수상)
 6. 이부형, 임연주, 이종혁 “블록체인 플랫폼에서의 합의 알고리즘”, 한국통신학회 동계학술발표회, 2017년 1월.  
   
-* Nat. Journal Articles
-1. 임연주, 이종혁, “5G MEC 환경에서의 도커 마이그레이션 테스트베드 및 실험 시나리오”, OSIA Standards & Technology Review, Vol. 33, No. 2, pp.26-30, 2020년 9월.  
-  
 ### ✍️ Research Project  
 ##### Main  
-1. 프로젝트명: __저지연 융합서비스를 위한 모바일 에지 컴퓨팅 플랫폼 기술 개발__
-<br/>기술 스택
+1. 5G Network
+* 프로젝트명: __저지연 융합서비스를 위한 모바일 에지 컴퓨팅 플랫폼 기술 개발__
+* 기술 스택
 	+ __5G MEC__
 	+ Signature & Verfication module
 	+ Container Migration
 	+ __Kubernetes, Docker, Helm, OpenSSL, Ngnix__, Jenkins, Elasticsearch
 	+ __Golang__, Python, PHP
-<br/>프로젝트 기간: 2017-04-01 – 2020-12-31
-<br/>프로젝트 내용
-	+  최대한 자세하게 서술
-<br/>프로젝트 데모
+* 프로젝트 기간: 2017-04-01 – 2020-12-31
+* 프로젝트 내용
+	+ ...
+* 프로젝트 데모
 	+ ...
 <br/>  
-2. 프로젝트명: __사설 블록체인 환경에서의 펌웨어 업데이트 아키텍처 연구 및 개발__
-<br/>기술 스택
+2. Blockchain 
+* 프로젝트명: __사설 블록체인 환경에서의 펌웨어 업데이트 아키텍처 연구 및 개발__
+* 기술 스택
 	+ Blockchain, Firmware Update
 	+ __Hyperledger Fabric__, Raspberry Pi 4
 	+ __Golang__
-<br/>프로젝트 기간: 2020-04-01 – 2020-10-31
-<br/>프로젝트 내용
-	+  최대한 자세하게 서술
-<br/>프로젝트 데모
+* 프로젝트 기간: 2020-04-01 – 2020-10-31
+* 프로젝트 내용
+	+ ...
+* 프로젝트 데모
 	+ ...
 <br/>  
-3. 프로젝트명: __마이크로그리드 환경에서의 __
-<br/>기술 스택
+* 프로젝트명: __마이크로그리드 환경에서의 전력거래 시스템 개발 __
+* 기술 스택
 	+ Blockchain
 	+ __Hyperledger Fabric__, Raspberry Pi 3
 	+ __Solidity, Javascript__
-<br/>프로젝트 기간: 2017-??-?? – 2017-??-??
-<br/>프로젝트 내용
-	+  최대한 자세하게 서술
-<br/>프로젝트 데모
+* 프로젝트 기간: 2017-??-?? – 2017-??-??
+* 프로젝트 내용
+	+ ...
+* 프로젝트 데모
 	+ ...
 <br/>  
 
