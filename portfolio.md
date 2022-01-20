@@ -5,6 +5,8 @@ date:   21-08-22 21:03:36 +0530
 last_modified_at: 22-01-20 14:19:00 +0900
 categories: Reseacher
 ---
+### [Master's Thesis]
+Container Security Framework and MEC Application Relocation for 5G Infrastructure
 
 ### 👩‍💻 Career  
 * [PEL(Protocol Engineering lab)], 석사 과정, 2019.02.01 ~ 2021.08.20
@@ -128,5 +130,7 @@ __<br/>
 [ojo_96님의 블로그](https://blog.naver.com/ojo_96)
 개발/일상 등을 올리는 **블로그**입니다.
 
+
+[Master's Thesis]: http://sejong.dcollection.net/common/orgView/200000506160
 [PEL(Protocol Engineering lab)]: http://pel.sejong.ac.kr/wordpress/
 [Zeppelin]: https://zeppelin.apache.org/ 
