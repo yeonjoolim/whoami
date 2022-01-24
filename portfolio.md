@@ -217,10 +217,10 @@ Portfolio
 <br/>
 
 ### 📝 Blog
-[ojo_96님의 블로그](https://blog.naver.com/ojo_96)
-개발/일상 등을 올리는 **블로그**입니다.
+개발/일상 등을 올리는 [**블로그**]입니다.
 
 
 [PEL(Protocol Engineering lab)]: http://pel.sejong.ac.kr/wordpress/
 [Zeppelin]: https://zeppelin.apache.org/
 [Clair]: https://www.redhat.com/en/topics/containers/what-is-clair 
+[블로그]: https://blog.naver.com/ojo_96
