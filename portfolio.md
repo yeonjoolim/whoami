@@ -205,7 +205,7 @@ Portfolio
 <br/>  
 
 ### 📄 Certificate
-* [TOEIC Speaking Level 6](./contents/3.pdf)
+* TOEIC Speaking [__Level 6__](./contents/3.pdf)
 <br/>  
 
 ### 🏆 Prize  
