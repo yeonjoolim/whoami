@@ -205,6 +205,8 @@ Portfolio
 <br/>
 ### 🏆 Prize  
 * 2018 상명대학교 교내 프라임 경진대회 - [__최우수상__](./contents/4.pdf)
+	+ 학부 졸업 작품: BIDaaS (Blockchain based ID as a Service)
+		- [details](./contents/7.pdf)
 * 2017 KUCIS 우수 동아리 시상(상명대학교 CodeCure 동아리 회장 당시) - [__리포터상__](./contents/5.pdf)
 * 2017 한국정보보호학회 하계 학술발표회 - [__우수논문상__](./contents/6.pdf)
 <br/>
