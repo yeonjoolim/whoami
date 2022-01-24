@@ -33,7 +33,7 @@ Portfolio
 6. 이부형, 임연주, 이종혁 “블록체인 플랫폼에서의 합의 알고리즘”, 한국통신학회 동계학술발표회, 2017년 1월.  
   
 ### ✍️ Research Project  
-##### Main  
+#### Main  
 1. 5G Network
 	+ 프로젝트명: 저지연 융합서비스를 위한 모바일 에지 컴퓨팅 플랫폼 기술 개발 (with ETRI)
 		- 과제 리더 담당
@@ -74,6 +74,7 @@ Portfolio
 		- Container Migration module
 			- [Click😁](https://drive.google.com/file/d/1q-oOsti67wMTASD87x77G-kDbx43D-jk/view?usp=sharing)
 <br/>  
+<br/>  
 2. Blockchain 
 	+ 프로젝트명: 사설 블록체인 환경에서의 펌웨어 업데이트 아키텍처 연구 및 개발 (with ETRI)  
 	+ 기술 스택
@@ -93,7 +94,6 @@ Portfolio
 			- [Click😆](./contents/1.mp4)
 		- Update Firmware (Download) 
 			- [Click😉](./contents/2.mp4)
-<br/>  
 <br/>  
 	+ 프로젝트명: 마이크로그리드 환경에서의 블록체인 기반 전력거래 시스템 개발 (비공식)
 	+ 기술 스택
