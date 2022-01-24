@@ -94,7 +94,7 @@ Portfolio
 			- [Click😆](./contents/1.mp4)
 		- Update Firmware (Download) 
 			- [Click😉](./contents/2.mp4)
-<br/>  
+<br/>    
 	+ 프로젝트명: 마이크로그리드 환경에서의 블록체인 기반 전력거래 시스템 개발 (비공식)
 	+ 기술 스택
 		- Ethereum, Raspberry Pi 3
