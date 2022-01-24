@@ -9,8 +9,8 @@ Portfolio
 =========
 
 ### 👩‍🎓 Education
-* 세종대학교 정보보호학과 [__석사__](./contents/0.pdf)
-* 상명대학교 컴퓨터공학과 학사
+* 세종대학교 정보보호학과 __석사__, 2021
+* 상명대학교 컴퓨터공학과 학사, 2019
 
 ### 📖 Master's Thesis
 * Title: [Container Security Framework and MEC Application Relocation for 5G Infrastructure](http://sejong.dcollection.net/common/orgView/200000506160)  
