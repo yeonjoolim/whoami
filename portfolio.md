@@ -38,7 +38,7 @@ Portfolio
 		- 5G MEC
 			- Kubernetes, Jenkins 
 		- Security Framework
-			- Signature & Verfication module __(자체 개발)
+			- Signature & Verfication module (자체 개발)
 				- Docker, OpenSSL Library, Elasticsearch  
 			- Docker Image Vulnerability Diagnostic System
 				- [Clair]
@@ -69,7 +69,6 @@ Portfolio
 			- [Click😀](https://drive.google.com/file/d/1e4POVJpssNf87_LtxtGoejdRRzunNst9/view?usp=sharing)
 		- Container Migration module
 			- [Click😁](https://drive.google.com/file/d/1q-oOsti67wMTASD87x77G-kDbx43D-jk/view?usp=sharing)
-
 <br/>  
 2. Blockchain 
 	+ 프로젝트명: 사설 블록체인 환경에서의 펌웨어 업데이트 아키텍처 연구 및 개발 (with ETRI)  
@@ -87,11 +86,12 @@ Portfolio
 		- NodeJS 기반 SDK 를 이용한 펌웨어 업데이트 Dapp 개발
 	+ 프로젝트 데모
 		- Register Firmware (Upload)
-			- [Click😆](./video/3.mp4)
+			- [Click😆](./contents/1.mp4)
 		- Update Firmware (Download) 
-			- [Click😉](./video/4.mp4)
+			- [Click😉](./contents/2.mp4)
 <br/>  
-	+ 프로젝트명: 마이크로그리드 환경에서의 블록체인 기반 전력거래 시스템 개발(비공식)
+<br/>  
+	+ 프로젝트명: 마이크로그리드 환경에서의 블록체인 기반 전력거래 시스템 개발 (비공식)
 	+ 기술 스택
 		- Ethereum, Raspberry Pi 3
 		- 언어: Solidity, JavaScript
@@ -206,7 +206,7 @@ Portfolio
 
 <br/>
 ### 📄 Certificate
-* Toeic Speaking Level 6
+* Toeic Speaking Level 6 [click😊](./contents/3.pdf)
 <br/>
 
 ### 📝 Blog
