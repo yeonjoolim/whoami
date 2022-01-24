@@ -32,22 +32,22 @@ Portfolio
 ##### Main  
 1. 5G Network
 	+ 프로젝트명: 저지연 융합서비스를 위한 모바일 에지 컴퓨팅 플랫폼 기술 개발(with ETRI)
+		- 과제 리더 담당
 	+ 프로젝트 기간: 2017-04-01 – 2020-12-31 __(4년)__
 	+ 기술 스택
 		- 5G MEC
 			- Kubernetes, Jenkins 
 		- Security Framework
 			- Signature & Verfication module
-				- Docker, OpenSSL Library, Elasticsearch
+				- Docker, OpenSSL Library, Elasticsearch  
                 	- Docker Image Vulnerability Diagnostic System
-				- clair(https://www.redhat.com/ko/topics/containers/what-is-clair)
+				- [clair](https://www.redhat.com/en/topics/containers/what-is-clair)
 		- Container Migration module
 			- __Helm__, Ngnix, Google MAP API
 		- 언어: __Golang__, Python, PHP
 	+ 프로젝트 내용
-		- 과제 리더 담당
 		1. MEC 환경에서의 접근 제어 및 보안 기술 개발  
-			- ETSI 5G MEC(Multi-access Edge Computing) 표준 문서 분석
+			- [ETSI 5G MEC](https://www.etsi.org/technologies/multi-access-edge-computing)(Multi-access Edge Computing) 표준 문서 분석
 			- 요구사항 분석 및 환경, 기능, 성능, 요구사항 도출
 			- 도커 컨테이너 이미지 기반 서명 검증 및 취약점 탐지 시스템 설계
 			- Clair 기반 이미지 취약점 탐지 및 리포팅 서버 개발 
