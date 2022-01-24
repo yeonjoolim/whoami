@@ -38,24 +38,24 @@ Portfolio
 		- 5G MEC
 			- Kubernetes, Jenkins 
 		- Security Framework
-			- Signature & Verfication module
+			- Signature & Verfication module __(자체 개발)
 				- Docker, OpenSSL Library, Elasticsearch  
 			- Docker Image Vulnerability Diagnostic System
 				- [Clair]
 		- Container Migration module
-			- __Helm__, Ngnix, Google MAP API
-		- 언어: __Golang__, Python, PHP
+			- Helm, Ngnix, Google MAP API
+		- 언어: Golang, Python, PHP
 	+ 프로젝트 내용
 		1. MEC 환경에서의 접근 제어 및 보안 기술 개발  
 			- [ETSI 5G MEC](https://www.etsi.org/technologies/multi-access-edge-computing)(Multi-access Edge Computing) 표준 문서 분석
-			- 요구사항 분석 및 환경, 기능, 성능, 요구사항 도출
+			- 요구사항 분석
 			- 도커 컨테이너 이미지 기반 서명 검증 및 취약점 탐지 시스템 설계
 			- [Clair] 기반 이미지 취약점 탐지 및 리포팅 서버 개발 
-			- Gitlab 기반 취약(악성) 이미지 필터링 모듈 개발 
+			- Gitlab🦊 기반 취약(악성) 이미지 필터링 모듈 개발 
 			- Kubernetes 환경에서 사용 가능한 Docker 기반 이미지 서명/검증 프레임워크 개발(고도화: Docker‘)
 		2. 이동성 지원 및 태스크 핸드오프 기술 개발
 			- 초저지연을 만족하기 위한 다양한 시나리오 상황에서의 태스크 핸드오프 조건 및 요구사항 분석(Pro-active, Re-active)
-			- 경량화된 컨테이너 기반 태스크 핸드오프 아키텍처 설계
+			- 컨테이너 기반 Seemless 마이그레이션 아키텍처 설계
 			- Kubernetes 기반 Stateful 서비스(Pod) 개발
 				- 동영상 스트리밍 서버(Nginx, php)
 			- ME Platform 내 UE Location API 기반 태스크 핸드오프 기능 구현 
@@ -63,27 +63,47 @@ Portfolio
 			- 정량적 목표 달성(TTA 시험성적서 발급)
 				- MEC 간 태스크 handoff 지연시간 감소율 74.3% 달성
 				- 목표치: 20%(1.6초) / 달성: 74.3%(0.514초)
+
+	+ 프로젝트 데모
+		- Security Framework
+			- [Click😀](https://drive.google.com/file/d/1e4POVJpssNf87_LtxtGoejdRRzunNst9/view?usp=sharing)
+		- Container Migration module
+			- [Click😁](https://drive.google.com/file/d/1q-oOsti67wMTASD87x77G-kDbx43D-jk/view?usp=sharing)
+
 <br/>  
 2. Blockchain 
-	+ 프로젝트명: 사설 블록체인 환경에서의 펌웨어 업데이트 아키텍처 연구 및 개발  
+	+ 프로젝트명: 사설 블록체인 환경에서의 펌웨어 업데이트 아키텍처 연구 및 개발 (with ETRI)  
 	+ 기술 스택
-		- __Hyperledger Fabric__, Raspberry Pi 4
-		- __Golang__
+		- Hyperledger Fabric, NodeJS, Raspberry Pi 4
+		- 언어: Golang, JavaScript
 	+ 프로젝트 기간: 2020-04-01 – 2020-10-31
 	+ 프로젝트 내용
-		- ...
+		- [IETF SUIT](https://datatracker.ietf.org/wg/suit/about/) 표준 문서 분석
+		- [IETF 109](https://www.ietf.org/how/meetings/105/) 참석
+		- IRTF SCP 프로토콜 상세 분석
+		- 하이퍼레저 기반 IoT 펌웨어 업데이트 시스템 설계
+		- 하이퍼레저 패브릭 블록체인 네트워크 구성
+		- 펌웨어 업데이트를 위한 체인코드 작성
+		- NodeJS 기반 SDK 를 이용한 펌웨어 업데이트 Dapp 개발
 	+ 프로젝트 데모
-		- ...
+		- Register Firmware (Upload)
+			- [Click😆](./video/3.mp4)
+		- Update Firmware (Download) 
+			- [Click😉](./video/4.mp4)
 <br/>  
-	+ 프로젝트명: __마이크로그리드 환경에서의 전력거래 시스템 개발 __
+	+ 프로젝트명: 마이크로그리드 환경에서의 블록체인 기반 전력거래 시스템 개발(비공식)
 	+ 기술 스택
-		- __Hyperledger Fabric__, Raspberry Pi 3
-		- __Solidity, Javascript__
-	+ 프로젝트 기간: 2017-??-?? – 2017-??-??
+		- Ethereum, Raspberry Pi 3
+		- 언어: Solidity, JavaScript
+	+ 프로젝트 기간: 2017-06-01 – 2017-11-30
 	+ 프로젝트 내용
-		- ...
-	+ 프로젝트 데모
-		- ...
+		- 합의 알고리즘 분석
+		- 이더리움 기반 블록체인 네트워크 구성
+		- 트랜잭션 필드 구성(데이터 명세)
+		- 스마트 컨트랙트 기반 전력 매매/고객 매칭 자동화 알고리즘 개발(경매 도입)
+		- 이더리움 Web3 API 기반 웹용 래퍼함수 개발
+		- APM(Apache, PHP, MariaDB) 환경 구축
+		- 오픈소스 [PHP-JSON RPC](https://github.com/btelle/ethereum-php) 기반 블록체인 웹 연동
 <br/>  
 
 ##### All 
