@@ -31,7 +31,7 @@ Portfolio
 ### ✍️ Research Project  
 ##### Main  
 1. 5G Network
-	+ 프로젝트명: 저지연 융합서비스를 위한 모바일 에지 컴퓨팅 플랫폼 기술 개발(with ETRI)
+	+ 프로젝트명: 저지연 융합서비스를 위한 모바일 에지 컴퓨팅 플랫폼 기술 개발 (with ETRI)
 		- 과제 리더 담당
 	+ 프로젝트 기간: 2017-04-01 – 2020-12-31 __(4년)__
 	+ 기술 스택
@@ -40,8 +40,8 @@ Portfolio
 		- Security Framework
 			- Signature & Verfication module
 				- Docker, OpenSSL Library, Elasticsearch  
-                	- Docker Image Vulnerability Diagnostic System
-				- [clair](https://www.redhat.com/en/topics/containers/what-is-clair)
+			- Docker Image Vulnerability Diagnostic System
+				- [Clair]
 		- Container Migration module
 			- __Helm__, Ngnix, Google MAP API
 		- 언어: __Golang__, Python, PHP
@@ -50,14 +50,14 @@ Portfolio
 			- [ETSI 5G MEC](https://www.etsi.org/technologies/multi-access-edge-computing)(Multi-access Edge Computing) 표준 문서 분석
 			- 요구사항 분석 및 환경, 기능, 성능, 요구사항 도출
 			- 도커 컨테이너 이미지 기반 서명 검증 및 취약점 탐지 시스템 설계
-			- Clair 기반 이미지 취약점 탐지 및 리포팅 서버 개발 
+			- [Clair] 기반 이미지 취약점 탐지 및 리포팅 서버 개발 
 			- Gitlab 기반 취약(악성) 이미지 필터링 모듈 개발 
 			- Kubernetes 환경에서 사용 가능한 Docker 기반 이미지 서명/검증 프레임워크 개발(고도화: Docker‘)
 		2. 이동성 지원 및 태스크 핸드오프 기술 개발
 			- 초저지연을 만족하기 위한 다양한 시나리오 상황에서의 태스크 핸드오프 조건 및 요구사항 분석(Pro-active, Re-active)
 			- 경량화된 컨테이너 기반 태스크 핸드오프 아키텍처 설계
-			- Kubernetes 기반 Stateful 서비스 개발
-				- 동영상 스트리밍 서비스(Pod; Nginx, php)
+			- Kubernetes 기반 Stateful 서비스(Pod) 개발
+				- 동영상 스트리밍 서버(Nginx, php)
 			- ME Platform 내 UE Location API 기반 태스크 핸드오프 기능 구현 
 			- Google Map API를 활용한 UE 이동 정보 시각화 기능 구현
 			- 정량적 목표 달성(TTA 시험성적서 발급)
@@ -65,7 +65,7 @@ Portfolio
 				- 목표치: 20%(1.6초) / 달성: 74.3%(0.514초)
 <br/>  
 2. Blockchain 
-	+ 프로젝트명: __사설 블록체인 환경에서의 펌웨어 업데이트 아키텍처 연구 및 개발__
+	+ 프로젝트명: 사설 블록체인 환경에서의 펌웨어 업데이트 아키텍처 연구 및 개발  
 	+ 기술 스택
 		- __Hyperledger Fabric__, Raspberry Pi 4
 		- __Golang__
@@ -190,4 +190,5 @@ Portfolio
 
 
 [PEL(Protocol Engineering lab)]: http://pel.sejong.ac.kr/wordpress/
-[Zeppelin]: https://zeppelin.apache.org/ 
+[Zeppelin]: https://zeppelin.apache.org/
+[Clair]: https://www.redhat.com/en/topics/containers/what-is-clair 
