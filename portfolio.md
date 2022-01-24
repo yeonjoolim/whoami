@@ -9,6 +9,7 @@ Portfolio
 =========
 
 ### 👩‍🎓 Master's Thesis
+* [세종대학교 정보보호학과 석사](./contents/0.pdf)
 * Title: [Container Security Framework and MEC Application Relocation for 5G Infrastructure](http://sejong.dcollection.net/common/orgView/200000506160)  
 
 ### 👩‍💻 Career  
@@ -199,13 +200,13 @@ Portfolio
 * C
 * Linux
 <br/>
-### 🏆 Prize  
-* 2018 상명대학교 교내 프라임 경진대회 - __최우수상__
-* 2017 KUCIS 우수 동아리 시상 - __최우수상__
-* 2017 한국정보보호학회 하계 학술발표회 - __우수논문상__
-<br/>
 ### 📄 Certificate
 * Toeic Speaking Level 6 [click😊](./contents/3.pdf)
+<br/>
+### 🏆 Prize  
+* 2018 상명대학교 교내 프라임 경진대회 - [__최우수상__](./contents/4.pdf)
+* 2017 KUCIS 우수 동아리 시상(상명대학교 CodeCure 동아리 회장 당시) - [__리포터상__](./contents/5.pdf)
+* 2017 한국정보보호학회 하계 학술발표회 - [__우수논문상__](./contents/6.pdf)
 <br/>
 
 ### 📝 Blog
