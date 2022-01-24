@@ -202,7 +202,7 @@ Portfolio
 <br/>  
 
 ### 📄 Certificate
-* Toeic Speaking Level 6 [click😊](./contents/3.pdf)
+* [TOEIC Speaking Level 6](./contents/3.pdf)
 <br/>  
 
 ### 🏆 Prize  
