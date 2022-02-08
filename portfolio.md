@@ -83,7 +83,7 @@ Portfolio
 	+ 프로젝트 기간: 2020-04-01 – 2020-10-31
 	+ 프로젝트 내용
 		- [IETF SUIT](https://datatracker.ietf.org/wg/suit/about/) 표준 문서 분석
-		- [IETF 109](https://www.ietf.org/how/meetings/105/) 참석
+		- [IETF 105](https://www.ietf.org/how/meetings/105/) 참석
 		- IRTF SCP 프로토콜 상세 분석
 		- 하이퍼레저 기반 IoT 펌웨어 업데이트 시스템 설계
 		- 하이퍼레저 패브릭 블록체인 네트워크 구성
