@@ -30,7 +30,10 @@ Portfolio
 3. 최창준, 임연주, 송영준, 이종혁, “이더리움 확장성 문제 해결을 위한 Off-Chain 솔루션 분석”, 한국통신학회 동계종합학술발표회, 2019년 1월.
 4. 임연주, 명세인, 권순홍, 이종혁, “블록체인 기반 마이크로그리드 전력거래 시스템”, 한국통신학회 동계종합학술발표회, 2018년 1월.
 5. 송영준, 전상기, 임연주, 이종혁, “Shadow Brokers에 의해 유출된 NSA 윈도우 해킹 툴 분석”, 한국정보보호학회 하계학술발표회, 2017년 6월. (우수 논문상 수상)
-6. 이부형, 임연주, 이종혁 “블록체인 플랫폼에서의 합의 알고리즘”, 한국통신학회 동계학술발표회, 2017년 1월.  
+6. 이부형, 임연주, 이종혁 “블록체인 플랫폼에서의 합의 알고리즘”, 한국통신학회 동계학술발표회, 2017년 1월.
+<br/>
+* NInt. Journal Articles 
+1. Yeonjoo Lim, Jong-Hyouk Lee, “Container-based Service Relocation for Beyond 5G Networks,” Journal of Internet Technology, vol. 23, no. 4 , pp. 911-918, Jul 2022.
   
 ### ✍️ Research Project  
 #### Main  
