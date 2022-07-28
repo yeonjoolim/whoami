@@ -22,7 +22,8 @@ Portfolio
 
 ### 📚 Paper
 * Nat. Journal Articles
-1. 임연주, 이종혁, “5G MEC 환경에서의 도커 마이그레이션 테스트베드 및 실험 시나리오”, OSIA Standards & Technology Review, Vol. 33, No. 2, pp.26-30, 2020년 9월.\
+1. 임연주, 이종혁, “5G MEC 환경에서의 도커 마이그레이션 테스트베드 및 실험 시나리오”, OSIA Standards & Technology Review, Vol. 33, No. 2, pp.26-30, 2020년 9월.
+
 * Nat. Conference Proceedings
 3. 박재형, 임연주, 이종혁, “무인항공기 시스템의 제어 통신을 위한 MAVLink 프로토콜 분석”, 한국정보보호학회 충청지부 학술대회, 2021년 8월.
 4. 임연주, 이종혁, “컨테이너 환경에서의 이미지 취약점 탐지 및 서명/검증 모델 설계”, 융합스마트미디어 시스템 워크샵(CSMS), 2019년 8월.
@@ -30,6 +31,7 @@ Portfolio
 6. 임연주, 명세인, 권순홍, 이종혁, “블록체인 기반 마이크로그리드 전력거래 시스템”, 한국통신학회 동계종합학술발표회, 2018년 1월.
 7. 송영준, 전상기, 임연주, 이종혁, “Shadow Brokers에 의해 유출된 NSA 윈도우 해킹 툴 분석”, 한국정보보호학회 하계학술발표회, 2017년 6월. (우수 논문상 수상)
 8. 이부형, 임연주, 이종혁 “블록체인 플랫폼에서의 합의 알고리즘”, 한국통신학회 동계학술발표회, 2017년 1월.
+
 * Int. Journal Articles
 1. Yeonjoo Lim, Jong-Hyouk Lee, “Container-based Service Relocation for Beyond 5G Networks,” Journal of Internet Technology, vol. 23, no. 4 , pp. 911-918, Jul 2022.
 <br/> 
