@@ -285,6 +285,15 @@ Portfolio
 * PHP
 * C
 * Linux
+* Virtualization
+	+ VM, P2V
+	+ KOSMOS
+* EFK
+	+ Elasticsearch, Fluentd, Kibana
+* OpenAPI
+* SW Firewall
+	+ vFW
+	+ KINGS, ITAM
 <br/>  
 
 ### 📄 Certificate
