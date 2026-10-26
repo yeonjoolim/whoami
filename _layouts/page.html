@@ -1,8 +1,12 @@
 ---
 layout: default
 ---
+{%- assign date_format = site.plainwhite.date_format | default: "%b %-d, %Y" -%}
 <div class="post-container">
     <div class="post">
+        {%- if page.last_modified_at -%}
+        <p class="post-date"><i class="icon-calendar"></i> Updated {{ page.last_modified_at | date: date_format }}</p>
+        {%- endif -%}
         {{ content }}
     </div>
 </div>

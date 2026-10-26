@@ -3,7 +3,7 @@ layout: page
 title:  "portfolio"
 permalink: /portfolio.html
 date:   21-08-22 21:03:36 +0530
-last_modified_at: 22-07-28 15:59:00 +0900
+last_modified_at: 2026-10-26 13:46:00 +0900
 categories: Reseacher
 ---
 Portfolio
