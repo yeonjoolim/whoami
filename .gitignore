@@ -4,3 +4,7 @@ _site
 .jekyll-metadata
 vendor
 Gemfile.lock
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
