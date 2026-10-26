@@ -89,6 +89,7 @@ main {
     @media screen and (min-width: $mobileW + 1) {
       position: fixed;
       max-width: 280px;
+      overflow-y: auto;
     }
     min-width: $leftWidth;
     justify-content: center;
@@ -110,7 +111,10 @@ main {
       line-height: normal;
     }
     img {
-      max-width: 150px;
+      width: 190px;
+      max-width: 100%;
+      height: auto;
+      object-fit: contain;
     }
     img.dark {
       display: none;
@@ -308,7 +312,11 @@ footer {
         flex-direction: row;
         margin-bottom: 10px;
         img {
-          max-height: 40px;
+          width: 120px;
+          max-width: 42%;
+          max-height: none;
+          height: auto;
+          object-fit: contain;
         }
         h2 {
           margin: 0 10px;
