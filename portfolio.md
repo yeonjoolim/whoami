@@ -10,10 +10,8 @@ Portfolio
 
 ### 👩‍🎓 Education
 * 세종대학교 정보보호학과 __석사__, 2021
+	+ 📖 Master's Thesis: [Container Security Framework and MEC Application Relocation for 5G Infrastructure](http://sejong.dcollection.net/common/orgView/200000506160)
 * 상명대학교 컴퓨터공학과 학사, 2019
-
-### 📖 Master's Thesis
-* Title: [Container Security Framework and MEC Application Relocation for 5G Infrastructure](http://sejong.dcollection.net/common/orgView/200000506160)  
 
 ### 👩‍💻 Career  
 * KT 네트워크부문 네트워크연구소, 2023.12.01 ~ 현재
